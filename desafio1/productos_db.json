@@ -1,0 +1,18 @@
+{
+    "123456": {
+        "codigo": 123456,
+        "nombre": "Pan",
+        "precio": 500.0,
+        "cantidad": "25",
+        "proveedor": "Bimbo",
+        "fecha_vencimiento": "01/09/2024"
+    },
+    "123457": {
+        "codigo": 123457,
+        "nombre": "Computadora",
+        "precio": 20000.0,
+        "cantidad": "15",
+        "proveedor": "Lenovo",
+        "garantia": "3"
+    }
+}
