@@ -1,8 +1,8 @@
 import os
 import platform
 
-from gestion_productos import (ProductoAlimenticio, ProductoElectronico, GestionProductos
-                               )
+from gestion_productos import (
+    ProductoAlimenticio, ProductoElectronico, GestionProductos)
 
 
 def limpiar_pantalla():
