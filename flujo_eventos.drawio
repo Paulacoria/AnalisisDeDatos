@@ -8,16 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nPbELjLdQWRDAOYsN8cc-1" value="Define evento&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nPbELjLdQWRDAOYsN8cc-2" value="COMISIÓN" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="90" y="30" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="nPbELjLdQWRDAOYsN8cc-3" value="COMISIÓN DIRECTIVA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="300" y="30" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="nPbELjLdQWRDAOYsN8cc-4" value="RESPONSABLE INTERNO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="500" y="30" width="100" height="50" as="geometry" />
+          <mxGeometry x="80" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nPbELjLdQWRDAOYsN8cc-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -50,13 +41,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nPbELjLdQWRDAOYsN8cc-9" value="Define evento&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nPbELjLdQWRDAOYsN8cc-11" value="Crea documento &quot;Coordinacion del Evento&lt;span style=&quot;background-color: transparent;&quot;&gt;&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nPbELjLdQWRDAOYsN8cc-16" value="Coordinación del evento&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
-          <mxGeometry x="470" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="470" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPbELjLdQWRDAOYsN8cc-17" value="COMISIÓN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="38" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nPbELjLdQWRDAOYsN8cc-18" value="COMISIÓN&lt;div&gt;DIRECTIVA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="33" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nPbELjLdQWRDAOYsN8cc-19" value="RESPONSABLE&lt;div&gt;INTERNO&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="33" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nPbELjLdQWRDAOYsN8cc-20" value="COMISIÓN&amp;nbsp;&lt;div&gt;ORGANIZADORA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="33" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nPbELjLdQWRDAOYsN8cc-21" value="AGENCIA DE&amp;nbsp;&lt;div&gt;PUBLICIDAD&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="33" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nPbELjLdQWRDAOYsN8cc-23" value="Crea evento en la plantilla de tareas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
